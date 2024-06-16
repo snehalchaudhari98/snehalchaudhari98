@@ -20,9 +20,7 @@
 
 👨🏽‍💻 P.S: I like to write clean and beautiful code.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehalchaudhari98&layout=compact&theme=algolia)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=snehalchaudhari98&custom_title=Stats&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehalchaudhari98&layout=compact&theme=algolia)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snehalchaudhari98&custom_title=Stats&show_icons=true&theme=algolia)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalchaudhari98&" alt="snehalchaudhari98" /></p> -->
 
