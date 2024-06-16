@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snehal Chaudhari</h1>
 
 [![](https://visitcount.itsvg.in/api?id=snehalchadhari98&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://img.shields.io/badge/Web-Portfolio-cyan)](https://snehalchaudhari98.github.io/)
 
 - 🔭 About me **Ambivert Software Developer**
 
